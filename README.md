@@ -1,1 +1,1 @@
-# Instance-selection-algorithm
+# Instance-selection-algorithm based on ensemble margin
